@@ -20,7 +20,19 @@
 # **Interessi**
 1. API
 2. Sviluppo backend
+3. Cyber security
 
 # **Lingue**
 1. Italiano - madrelingua
 2. Inglese - C2
+
+# **Linguaggi programmazione e technologie**
+> Python
+> Node.js
+> c++
+> c#
+> OpenCV (Python & c++)
+> Express
+> Laravel
+
+

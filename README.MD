@@ -14,10 +14,13 @@
 
 # **Formazione**
 - H-International School Treviso
-- FreeCodeCamp.com
+- Aulab Hackademy+ Fullstack - Cyber security
+- Learncpp.com
 
 # **Interessi**
-1. Coding
-2. Informatica
-3. Intelligenza artificiale
-4. Palestra
+1. API
+2. Sviluppo backend
+
+# **Lingue**
+1. Italiano - madrelingua
+2. Inglese - C2

@@ -1,11 +1,11 @@
 ## Curriculum Vitae - Leonardo Boraso
 
 # **Informazioni Personali**
-*Nome*: Leonardo Boraso
+**Nome**: Leonardo Boraso
 
-*Data di nascita*: 28/06/2005
+**Data di nascita**: 28/06/2005
 
-*Luogo di Nascita*: Vicenza
+**Luogo di Nascita**: Vicenza
 
 # **Recapiti**
 > Email: leonardoboraso28@gmail.com
